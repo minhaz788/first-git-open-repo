@@ -1,0 +1,50 @@
+/* h3{ */
+    color:lavender;
+    background-color: midnightblue;
+    margin: 20px;
+    border: 4px solid rgb(3, 246, 96);
+    border-radius: 15px;
+    /* border-color: black; */
+    padding: 10px;
+    text-align: center;
+    
+}
+
+/* p{ */
+    background-color: cadetblue;
+    margin: 20px;
+    border-radius: 15px;
+    color: cornsilk;
+    padding: 10px;
+    border: 4px solid rgb(3, 246, 96);
+    text-align: justify;
+    
+
+}
+
+/* ol{ */
+    background-color: aquamarine;
+    text-align: center;
+}
+
+.second{
+    /* visibility: hidden; */
+    /* display: none; */
+}
+
+.blog{
+    margin: 50px;
+    border: 10px solid tomato;
+    box-shadow: 10px 10px 10px 10px violet;
+}
+.header{
+    height: 300px;
+    background-image: url('bg.jpg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: aliceblue;
+    text-align: center;
+    padding: 150px;
+    /* text-decoration: wavy; */
+
+}
