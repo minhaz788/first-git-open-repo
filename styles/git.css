@@ -1,0 +1,16 @@
+h2{
+    color: blue;
+    text-align: center;
+}
+
+div{
+    background-color: coral;
+    border: 10px solid black;
+    border-radius: 15px;
+
+}
+
+p{
+    color: darkblue;
+    padding: 10px;
+}
